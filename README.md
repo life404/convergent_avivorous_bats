@@ -1,0 +1,11 @@
+### Abstract
+Investigating the genetic basis of dietary specialization can provide insight into the evolution of niche breadth. Here, we utilized comparative genomics methods to analyze two seasonally avivorous bats (*Nyatalus aviator* and *Ia io*) with the aim of comprehending the mechanism of adaptations to the expansion of their dietary niche expanded from insectivory to avivory. Our finding revealed that genes related to immunity and lipid metabolism underwent positive selection and convergent evolution among two avivorous bat species. Furthermore, our analysis revealed that immune-related genes in avivorous bats are under greater selective pressure, while hosting fewer endogenous retroviral elements in their genomes. Intriguingly, we observed the absence of *TLR10* in two avivorous bat species. These findings emphasize the significance of immune-driven adaptive evolution in avivory. On the other hand, our results uncovered that the dietary evolution of avivorous bats is accompanied by convergent evolutions involved in PPAR pathway. Notably, *CEPT1*, upstream gene of PPAR pathway activation, have undergone both positive selection and convergence and may have impact on lipid metabolism. These findings of our research not only deepened comprehension of the adaptive evolution underlying avivorous bats' unique diet, but also offered fresh perspectives on the molecular mechanisms of ecological niche evolution through a dietary lens.
+
+---------
+The IPython commands in this study are saved in `gene family evolution analysis.ipynb` and `adaptative evolution analysis.ipynb`
+
+
++ The `TOGA results` directory compiles the findings of the TOGA analysis for 15 bat species, which were instrumental in identifying gene loss events resulting from inactivate frameshift mutations.
++ The `convergent evolution` directory encompasses convergent evolution as identified by RERconverge and Zou and Zhang's method, while the `gene family evolution` directory includes the results of the CAFE analysis with the highest likelihood.
++ The directory titled `positive selection` compiles a list of genes identified as undergoing positive selection and those that have evolved rapidly in both *I. io* and *N. aviator*. Additionally, it includes the estimated $\omega$ ratios for each gene in both species.
+
