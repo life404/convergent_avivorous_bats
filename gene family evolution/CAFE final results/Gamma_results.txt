@@ -1,0 +1,8 @@
+Model Gamma Final Likelihood (-lnL): 41734.8
+Lambda: 0.0023296089212704
+Epsilon: 0.0134364
+Maximum possible lambda for this topology: 0.0117306
+159 values were attempted (0% rejected)
+The following families had failure rates >20% of the time:
+N0.HOG0000004 had 56 failures
+Alpha: 0.87421
